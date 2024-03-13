@@ -2,7 +2,7 @@
   
 <div>
 <p align="center">Welcome to my github ! My name is Louis !</p>
-<img align="center" width="1000" src="https://ih1.redbubble.net/image.1780036400.9747/raf,360x360,075,t,fafafa:ca443f4786.jpg">
+<img align="center" width="500" src="https://ih1.redbubble.net/image.1780036400.9747/raf,360x360,075,t,fafafa:ca443f4786.jpg">
 </div>
 
 <!--
