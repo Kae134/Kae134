@@ -2,14 +2,8 @@
   <img src="hello.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
-<!-- Introduction Section -->
-<div style="border:none; background-color:#374044;">
-  <p style="text-align:center; font-size:2rem;">Hi 👋👋</p>
-</div>
-
 <!-- Personal Information Section -->
 <div>
-  <p style="text-align:center; font-size:1.5rem;">Welcome to my GitHub! My name is [Your Name]</p>
   <ul>
     <li>🏫 Ecole: [HETIC](https://www.hetic.net/?gge_source=google&gge_medium=cpc&gge_term=hetic&gge_campaign=Search-MarquePure&gad_source=1&gclid=EAIaIQobChMIxq3Wx63xhAMVB5RoCR0YjA8cEAAYASAAEgIhk_D_BwE)</li>
     <li>🔥 Current project: [Project](https://github.com/Oomaxime/NOGPT-QUIZZ)</li>
@@ -24,7 +18,7 @@
 
 <!-- Programming Languages Section -->
 <h3 align="center">Programming Languages:</h3>
-<div style="display:flex; justify-content:center; gap: 300px;">
+<div style="display:block;">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 </div>
