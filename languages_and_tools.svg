@@ -25,9 +25,6 @@
             font-size : 1.5rem;
             margin : 1rem;
         }
-        img {
-            height:0.5rem;
-        }
         .lang_tools {
             display:flex;
             justify-content: center;
