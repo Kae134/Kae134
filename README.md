@@ -17,7 +17,3 @@
   <img src="languages_and_tools.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
-<div style="width: 100%;">
-  <iframe src="data:image/svg+xml;base64,[Base64-encoded SVG code]" style="width: 100%; height: 1500px;" title="Languages and Tools"></iframe>
-</div>
-
