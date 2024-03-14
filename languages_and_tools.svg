@@ -27,7 +27,7 @@
             margin : 1rem;
         }
         img {
-            height:4rem;
+            height:3rem;
         }
         .lang_tools {
             display:flex;
