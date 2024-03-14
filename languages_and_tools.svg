@@ -31,6 +31,8 @@
         }
         .lang_tools {
             display:flex;
+            flex-wrap : wrap;
+            align-item:center:
             justify-content: center;
             gap : 50px;
             width: 80%;
