@@ -64,19 +64,3 @@
 <div>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
 </div>
-
-<!-- Image Section -->
-<div style="text-align:center; background-image:url('https://img.freepik.com/premium-vector/liquid-marble-textured-backgrounds-wavy-psychedelic-backdrops-abstract-painting-wed-design_610716-232.jpg');">
-  asdasd
-  asdasd
-  asd
-</div>
-
-<!-- Multiple Images Section -->
-<div style="text-align:center;">
-  <div style="display:inline-block; margin: 0 10px;">
-    <div style="margin: 20px;">  
-      <img width="202" src="https://img.freepik.com/premium-vector/liquid-marble-textured-backgrounds-wavy-psychedelic-backdrops-abstract-painting-wed-design_610716-232.jpg">  
-    </div>
-    <div style="margin: 20px;">  
-      <img width="202" src="https://img.freepik.com/premium-vector/liquid-marble-textured-backgrounds-wavy-
