@@ -88,7 +88,7 @@
         <p>Languages and Tools that i currently know :</p>
         <p>Programming Languages : </p>
         <div class="lang_tools">
-            <a href="https://www.python.org" target="_blank" rel="noreferrer"> <image src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"/> </a>
+            <a href="https://www.python.org" target="_blank" rel="noreferrer"> <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/> </a>
             <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <image src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"/> </a>
         </div>
 
