@@ -34,9 +34,6 @@
             transform-origin: 70% 70%;
         }
 
-        .hi:hover {
-        }
-
 
 
         @keyframes hi  {
