@@ -28,12 +28,13 @@
         }
 
         .hi {
+            
+            animation: hi 1.5s ease infinite;
             display: inline-block;
             transform-origin: 70% 70%;
         }
 
         .hi:hover {
-            animation: hi 1.5s;
         }
 
 
