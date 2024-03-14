@@ -60,7 +60,7 @@
         <p>Languages and Tools that I currently know:</p>
         <p>Programming Languages:</p>
         <div class="lang_tools">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"/>
+            <img src="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTUwMCIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIxNTAwIiB4bWxuczpjYz0iaHR0cHM6Ly9yYXcuZ3JhdmF0YXIuY29tL2Rldmljb25zL2Rldmljb24vbWFzdGVyL2ljb25zL3B5dGhvbi9weXRob24tb3JpZW50YWwuc3ZnIj4KICAgIDxmb3JlaWduT2JqZWN0IHJlc2l6ZT0iMCIgc3R5bGU9IiI+PC9mb3JlaWduT2JqZWN0Pgo8L3N2Zz4=" alt="python"/>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"/>
         </div>
         <p>Frontend:</p>
