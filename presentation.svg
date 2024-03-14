@@ -47,7 +47,7 @@
 
         @media (prefers-color-scheme: light) {
             .container {
-                --color-main: rgba(63,94,251,1) 0%,;
+                --color-main: rgba(63,94,251,1) 0%;
                 --color-primary: rgba(252,70,107,1) 100%;
             }
         }
