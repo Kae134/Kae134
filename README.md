@@ -9,4 +9,3 @@
 <div style="width: 100%;">
   <img src="languages_and_tools.svg" style="width: 100%;" alt="Click to see the source">
 </div>
-
