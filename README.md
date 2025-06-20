@@ -18,7 +18,7 @@
 - 👔 Linkedin: [Here](https://www.linkedin.com/in/louis-dondey/)
 
 ## Tech Stack
-![My Skills](https://skillicons.dev/icons?i=js,py,tailwind,html,css,js,ts,react,nodejs,nextjs,nuxtjs,vue,vite,php,rust,django,docker,fastapi,flask,nginx,vercel,figma,github,linux,bash,git,mongodb,mysql,postgres,pinia,supabase)
+![My Skills](https://skillicons.dev/icons?i=py,js,ts,react,nodejs,nextjs,nuxtjs,vue,vite,php,rust,django,fastapi,flask,nginx,vercel,docker,figma,github,linux,bash,git,mongodb,mysql,postgres,pinia,supabase,tailwind,html,css)
 
 
 <div style="width: 100%;">
