@@ -2,13 +2,24 @@
   <img src="hello.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
-<div style="width: 100%;">
+<!-- <div style="width: 100%;">
   <img src="presentation.svg" style="width: 100%;" alt="Click to see the source">
-</div>
+</div> -->
 
-<div style="width: 100%;">
+<!-- <div style="width: 100%;">
   <img src="languages_and_tools.svg" style="width: 100%;" alt="Click to see the source">
-</div>
+</div> -->
+
+
+## About me
+
+- 🚀​ Currently learning : Rust
+- 🔥 Current project: [Guts](https://github.com/Jeck0v/Guts)
+- 👔 Linkedin: [Here](https://www.linkedin.com/in/louis-dondey/)
+
+## Tech Stack
+![My Skills](https://skillicons.dev/icons?i=js,py,tailwind,html,css,js,ts,react,nodejs,nextjs,nuxtjs,vue,vite,php,rust,django,docker,fastapi,flask,nginx,vercel,figma,github,linux,bash,git,mongodb,mysql,postgres,pinia,supabase)
+
 
 <div style="width: 100%;">
   <img src="thanks.svg" style="width: 100%;" alt="Click to see the source">

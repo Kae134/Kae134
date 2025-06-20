@@ -1,5 +1,5 @@
-<svg fill="none" viewBox="0 0 800 300" width="800" height="300" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
+<svg fill="none" viewBox="0 0 800 128" width="100%" height="8rem" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="8rem">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         * {
@@ -12,14 +12,13 @@
         
 
         .container {
-            --color-main: rgba(147,42,63,1) 0%;
-            --color-primary: rgba(20,29,78,1) 90%;
+            --color-main: #EF946C;
+            --color-primary: #2F2963;
             background: radial-gradient(circle, var(--color-main), var(--color-primary));
             background-size: 400% 400%;
             animation: gradient 15s ease infinite;
 
-            width: 100%;
-            height: 300px;
+            height: 8rem;
 
             display: flex;
             justify-content: center;
