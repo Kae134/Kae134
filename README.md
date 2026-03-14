@@ -14,7 +14,7 @@
 ## About me
 
 - 🚀​ Currently learning : Rust
-- 🔥 Current project: [Guts](https://github.com/Jeck0v/Guts)
+- 🔥 Current project: Kaerauder
 - 👔 Linkedin: [Here](https://www.linkedin.com/in/louis-dondey/)
 
 ## Tech Stack
